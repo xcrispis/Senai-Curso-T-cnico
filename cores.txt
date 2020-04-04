@@ -1,0 +1,12 @@
+cores
+
+logo v1
+
+azul	#83BEDF
+verde	#81DF99
+
+
+logo v2
+
+azul	#3582FF
+verde	#1AE0B4
